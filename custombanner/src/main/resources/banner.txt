@@ -1,0 +1,5 @@
+${application.version}
+Spring Boot Version: ${spring-boot.version}
+***********************
+Spring Boot Examples  *
+***********************
