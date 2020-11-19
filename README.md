@@ -1,6 +1,4 @@
 # Spring Boot Examples
-# Java Programming Examples
-
 [![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/examplehub/spring-boot)
 [![Build Status](https://img.shields.io/travis/examplehub/spring-boot.svg?label=Travis%20CI&logo=travis&style=flat-square)](https://travis-ci.com/examplehub/spring-boot)&nbsp;
 [![LGTM](https://img.shields.io/lgtm/alerts/github/examplehub/spring-boot.svg?label=LGTM&logo=LGTM&style=flat-square)](https://lgtm.com/projects/g/examplehub/spring-boot/alerts)&nbsp;
