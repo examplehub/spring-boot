@@ -11,6 +11,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>helloworld</module>
+        <module>lazyinitialization</module>
     </modules>
 
 </project>
