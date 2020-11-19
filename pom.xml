@@ -13,6 +13,7 @@
         <module>helloworld</module>
         <module>lazyinitialization</module>
         <module>custombanner</module>
+        <module>customapplication</module>
     </modules>
 
 </project>
