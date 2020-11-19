@@ -14,6 +14,6 @@
         <module>lazyinitialization</module>
         <module>custombanner</module>
         <module>customapplication</module>
+        <module>rest-service</module>
     </modules>
-
 </project>
