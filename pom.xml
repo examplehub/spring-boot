@@ -15,5 +15,6 @@
         <module>custombanner</module>
         <module>customapplication</module>
         <module>rest-service</module>
+        <module>consuming-rest</module>
     </modules>
 </project>
