@@ -17,5 +17,6 @@
         <module>rest-service</module>
         <module>consuming-rest</module>
         <module>upload-files</module>
+        <module>custom-port</module>
     </modules>
 </project>
