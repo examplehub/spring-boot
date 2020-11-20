@@ -16,5 +16,6 @@
         <module>customapplication</module>
         <module>rest-service</module>
         <module>consuming-rest</module>
+        <module>upload-files</module>
     </modules>
 </project>
