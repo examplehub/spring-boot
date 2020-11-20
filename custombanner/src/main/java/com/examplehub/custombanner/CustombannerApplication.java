@@ -6,8 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class CustombannerApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(CustombannerApplication.class, args);
-	}
-
+  public static void main(String[] args) {
+    SpringApplication.run(CustombannerApplication.class, args);
+  }
 }

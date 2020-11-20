@@ -6,8 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class CustomPortApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(CustomPortApplication.class, args);
-	}
-
+  public static void main(String[] args) {
+    SpringApplication.run(CustomPortApplication.class, args);
+  }
 }
