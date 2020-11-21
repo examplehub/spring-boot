@@ -18,5 +18,6 @@
         <module>consuming-rest</module>
         <module>upload-files</module>
         <module>custom-port</module>
+        <module>custom-error</module>
     </modules>
 </project>
