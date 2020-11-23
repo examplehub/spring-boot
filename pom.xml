@@ -19,5 +19,6 @@
         <module>upload-files</module>
         <module>custom-port</module>
         <module>custom-error</module>
+        <module>accessing-data-mysql</module>
     </modules>
 </project>
