@@ -20,5 +20,6 @@
         <module>custom-port</module>
         <module>custom-error</module>
         <!--<module>accessing-data-mysql</module>-->
+        <module>runner</module>
     </modules>
 </project>
