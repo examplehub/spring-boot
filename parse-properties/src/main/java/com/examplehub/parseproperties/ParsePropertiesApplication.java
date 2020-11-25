@@ -8,8 +8,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class ParsePropertiesApplication implements CommandLineRunner {
 
-  @Autowired
-  private Email email;
+  @Autowired private Email email;
 
   public static void main(String[] args) {
     SpringApplication.run(ParsePropertiesApplication.class, args);
