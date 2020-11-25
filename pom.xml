@@ -21,5 +21,7 @@
         <module>custom-error</module>
         <!--<module>accessing-data-mysql</module>-->
         <module>runner</module>
+        <module>parse-properties</module>
+        <module>logging</module>
     </modules>
 </project>

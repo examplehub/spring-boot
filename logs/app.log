@@ -1,0 +1,6 @@
+2020-11-25 13:25:31.504  INFO 6080 --- [main] c.examplehub.logging.LoggingApplication  : Starting LoggingApplication using Java 1.8.0_221 on cswikis-MacBook-Pro.local with PID 6080 (/Users/cswiki/Workspace/Github/examplehub/spring-boot/logging/target/classes started by cswiki in /Users/cswiki/Workspace/Github/examplehub/spring-boot)
+2020-11-25 13:25:31.506  INFO 6080 --- [main] c.examplehub.logging.LoggingApplication  : No active profile set, falling back to default profiles: default
+2020-11-25 13:25:31.773  INFO 6080 --- [main] c.examplehub.logging.LoggingApplication  : Started LoggingApplication in 0.474 seconds (JVM running for 1.012)
+2020-11-25 13:25:31.776  INFO 6080 --- [main] c.examplehub.logging.LoggingApplication  : info log
+2020-11-25 13:25:31.776  WARN 6080 --- [main] c.examplehub.logging.LoggingApplication  : warn log
+2020-11-25 13:25:31.776 ERROR 6080 --- [main] c.examplehub.logging.LoggingApplication  : error log
