@@ -24,5 +24,6 @@
         <module>runner</module>
         <module>parse-properties</module>
         <module>logging</module>
+        <module>package</module>
     </modules>
 </project>
