@@ -25,5 +25,6 @@
         <module>parse-properties</module>
         <module>logging</module>
         <module>package</module>
+        <module>yml-config</module>
     </modules>
 </project>
