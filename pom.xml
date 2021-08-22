@@ -11,6 +11,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>helloworld</module>
+        <module>jdbc</module>
         <module>lazyinitialization</module>
         <module>custombanner</module>
         <module>devtools</module>
