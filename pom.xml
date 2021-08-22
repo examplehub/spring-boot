@@ -22,6 +22,7 @@
         <module>custom-error</module>
         <!--<module>accessing-data-mysql</module>-->
         <module>runner</module>
+        <module>thymeleaf</module>
         <module>parse-properties</module>
         <module>logging</module>
         <module>package</module>
